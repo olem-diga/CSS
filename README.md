@@ -1,11 +1,11 @@
 # CSS
 
-1. [[Introducing CSS]]
-2. [[CSS Color]]
-3. [[CSS Text]]
-4. [[Boxes]]
-5. [[Lists, Tables & Forms]]
-6. [[CSS Layout]]
-7. [[CSS Images]]
+1. [Introducing CSS](https://github.com/olem-diga/CSS/blob/main/0.%20Introducing%20CSS/Introducing%20CSS.md)
+2. [CSS Color]
+3. [CSS Text]
+4. [Boxes]
+5. [Lists, Tables & Forms]
+6. [CSS Layout]
+7. [CSS Images]
 
 ---
